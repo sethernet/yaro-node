@@ -1,5 +1,5 @@
 # yaro-node
 Yaro Doctor Portal BE
 
-*To Run Locally:
+##To Run Locally:
 npm start
