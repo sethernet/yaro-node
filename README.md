@@ -1,5 +1,5 @@
 # yaro-node
-Yaro Doctor Portal BE
+Backend for the Yaro Doctor Portal
 
 ## To Run Locally:
 npm start
